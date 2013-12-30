@@ -1,1 +1,1 @@
-Hello! This is just a repository for my single program.
+Hello! To download this program, please have the latest version of the LabVIEW Software. To get the latest verssion, click <a href=http://www.ni.com/trylabview/>here</a> to download or get a free trial.
